@@ -1,5 +1,5 @@
 #! /bin/bash
 
-echo "Hello world"
+cat >> hola.txt
 
 
